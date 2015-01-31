@@ -1,0 +1,84 @@
+{
+  "name": "machinepack-codewars",
+  "version": "2.2.0",
+  "description": "Communicate with the Codewars API.",
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "keywords": [
+    "machinepack",
+    "machines",
+    "github",
+    "github-api"
+  ],
+  "author": {
+    "name": "Mike McNeil"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.19.0"
+  },
+  "dependencies": {
+    "github": "~0.1.16",
+    "lodash": "^2.4.1",
+    "machine": "^1.0.0",
+    "machinepack-http": "^1.0.1"
+  },
+  "machinepack": {
+    "machineDir": "machines",
+    "machines": [
+      "get-repo",
+      "create-repo",
+      "get-user-details",
+      "list-organization-repos",
+      "list-repo-commits-at-path",
+      "list-repo-commits",
+      "list-repo-activity",
+      "list-repos",
+      "build-installable-url",
+      "get-login-url",
+      "get-access-token"
+    ],
+    "devLinks": [
+      "https://developer.github.com/v3/",
+      "http://mikedeboer.github.io/node-github"
+    ]
+  },
+  "gitHead": "80a89c5ed82b7e0b53b5ea1775f4eedca9ec2a35",
+  "_id": "machinepack-github@2.2.0",
+  "_shasum": "719b5612c493466e847b0f22b8ec4f62a49b95bb",
+  "_from": "machinepack-github@",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "particlebanana",
+    "email": "particlebanana@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "balderdashy",
+      "email": "mike@balderdash.co"
+    },
+    {
+      "name": "sgress454",
+      "email": "scott@balderdash.co"
+    },
+    {
+      "name": "particlebanana",
+      "email": "particlebanana@gmail.com"
+    },
+    {
+      "name": "mikermcneil",
+      "email": "michael.r.mcneil@gmail.com"
+    },
+    {
+      "name": "irl",
+      "email": "irlnathan@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "719b5612c493466e847b0f22b8ec4f62a49b95bb",
+    "tarball": "http://registry.npmjs.org/machinepack-github/-/machinepack-github-2.2.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/machinepack-github/-/machinepack-github-2.2.0.tgz"
+}
