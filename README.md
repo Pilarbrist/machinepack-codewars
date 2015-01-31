@@ -1,18 +1,18 @@
 ![](http://node-machine.org/images/machine-anthropomorph-for-white-bg.png)
 
-# machinepack-github
+# machinepack-codewars
 
-Communicate with the Github API to create repos, list repos, see commits, etc.
+Communicate with the Codewars API to attempt solution, deferred response, finalize solution, get code challenge, get user, train code challenge, train next code challenge
 
 ### Installation
 
 ```sh
-$ npm install machinepack-github
+$ npm install machinepack-codewars
 ```
 
 ### Usage
 
-For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-github](http://node-machine.org/machinepack-github).
+For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-github](http://node-machine.org/machinepack-codewars).
 
 ### About
 
