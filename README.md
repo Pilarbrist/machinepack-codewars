@@ -2,7 +2,7 @@
 
 # machinepack-codewars
 
-Communicate with the Codewars API to attempt solution, deferred response, finalize solution, get code challenge, get user, train code challenge, train next code challenge
+Communicate with the [Codewars API](http://dev.codewars.com/?shell#api-reference) to attempt solution, deferred response, finalize solution, get code challenge, get user, train code challenge, train next code challenge
 
 ### Installation
 
@@ -12,7 +12,7 @@ $ npm install machinepack-codewars
 
 ### Usage
 
-For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-github](http://node-machine.org/machinepack-codewars).
+For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-codewars](http://node-machine.org/machinepack-codewars).
 
 ### About
 
